@@ -5,9 +5,9 @@
 |[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwook-song&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwook-song&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 |--|--|
 
-<h3>⚔ Tech Stack ⚔</h3>
+<h2>⚔ Tech Stack ⚔</h2>
 
-<p> Techs that I've used at least once </p>
+<strong> Techs that I've used at least once </strong>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
