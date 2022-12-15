@@ -1,4 +1,4 @@
-![](https://gh-hits.nomadcoders.workers.dev/view?username=$jinwook-song)
+![](https://gh-hits.nomadcoders.workers.dev/view?username=jinwook-song)
 
 <div align="center">
   
